@@ -9,7 +9,7 @@ html {
 } 
 
 body {
-  background-color: #456e72;
+  background-color: #77a6ac;
   color: #fff;
   font-family: "Lato", sans-serif;
   overflow: hidden;
@@ -128,7 +128,7 @@ body {
 .lid-left:after,
 .lid-back:after,
 .lid-right:after {
-  background-color: #0a0f1a;
+  background-color: #0e1627;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   content: "";
   height: 100%;
